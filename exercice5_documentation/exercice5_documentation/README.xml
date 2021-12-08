@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>exercice5_documentation</name>
+    </assembly>
+    <members>
+        <member name="T:exercice5_documentation.Card">
+            <summary>
+            Cette classe permet de créer une carte  pour le jeu Magic The Gathering
+            </summary>
+        </member>
+        <member name="M:exercice5_documentation.Card.#ctor(System.String,System.String,System.String,System.String)">
+            <summary>
+            Une carte a les paramètre ci-dessous afin d'être créer
+            </summary>
+            <param name="Name"></param>
+            <param name="Cost"></param>
+            <param name="Effect"></param>
+            <param name="FlavorText"></param>
+        </member>
+        <member name="M:exercice5_documentation.Card.createCard(System.String,System.String,System.String,System.String)">
+            <summary>
+            Function afin de créer une carte
+            </summary>
+            <param name="Name"></param>
+            <param name="Cost"></param>
+            <param name="Effect"></param>
+            <param name="FlavorText"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

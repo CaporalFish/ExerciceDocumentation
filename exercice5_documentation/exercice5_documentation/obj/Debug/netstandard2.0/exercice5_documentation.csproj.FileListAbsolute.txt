@@ -1,0 +1,10 @@
+C:\Users\1736409.CORPORATIF\Desktop\exercice5_documentation\exercice5_documentation\bin\Debug\netstandard2.0\exercice5_documentation.deps.json
+C:\Users\1736409.CORPORATIF\Desktop\exercice5_documentation\exercice5_documentation\bin\Debug\netstandard2.0\exercice5_documentation.dll
+C:\Users\1736409.CORPORATIF\Desktop\exercice5_documentation\exercice5_documentation\bin\Debug\netstandard2.0\exercice5_documentation.pdb
+C:\Users\1736409.CORPORATIF\Desktop\exercice5_documentation\exercice5_documentation\bin\Debug\netstandard2.0\README.xml
+C:\Users\1736409.CORPORATIF\Desktop\exercice5_documentation\exercice5_documentation\obj\Debug\netstandard2.0\exercice5_documentation.csprojAssemblyReference.cache
+C:\Users\1736409.CORPORATIF\Desktop\exercice5_documentation\exercice5_documentation\obj\Debug\netstandard2.0\exercice5_documentation.AssemblyInfoInputs.cache
+C:\Users\1736409.CORPORATIF\Desktop\exercice5_documentation\exercice5_documentation\obj\Debug\netstandard2.0\exercice5_documentation.AssemblyInfo.cs
+C:\Users\1736409.CORPORATIF\Desktop\exercice5_documentation\exercice5_documentation\obj\Debug\netstandard2.0\exercice5_documentation.csproj.CoreCompileInputs.cache
+C:\Users\1736409.CORPORATIF\Desktop\exercice5_documentation\exercice5_documentation\obj\Debug\netstandard2.0\exercice5_documentation.dll
+C:\Users\1736409.CORPORATIF\Desktop\exercice5_documentation\exercice5_documentation\obj\Debug\netstandard2.0\exercice5_documentation.pdb

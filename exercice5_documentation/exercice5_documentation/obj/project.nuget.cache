@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p4e/0fhFCqodZ/PP4Z4wnw9bYM2nEfEC+s+XGt5delFKH8Z2zqUr+KW3QzNi2s7JRg9+NHkdGFzQBy8LV41uoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1736409.CORPORATIF\\Desktop\\exercice5_documentation\\exercice5_documentation\\exercice5_documentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1736409.CORPORATIF\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\1736409.CORPORATIF\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\1736409.CORPORATIF\\.nuget\\packages\\vsxmd\\1.4.5\\vsxmd.1.4.5.nupkg.sha512"
+  ],
+  "logs": []
+}
